@@ -21,5 +21,7 @@ I specialize in building responsive, high-performance web and mobile apps using 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/rayane-krachni-b1794619a" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.behance.net/krachnirayane" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rayane-krachni&show_icons=true&locale=en" alt="rayane-krachni" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayane-krachni&" alt="rayane-krachni" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rayane-krachni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
