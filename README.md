@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 hi I'm Rayane krachni:
 I specialize in building responsive, high-performance web and mobile apps using Flutter and React.js. With Flutter, I create cross-platform mobile solutions, while with React.js, I design dynamic, user-friendly web interfaces. I focus on writing clean, maintainable code and delivering seamless, engaging user experiences.
 
 
