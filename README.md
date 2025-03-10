@@ -1,8 +1,9 @@
 # 💫 About Me:
 I specialize in building responsive, high-performance web and mobile apps using Flutter and React.js. With Flutter, I create cross-platform mobile solutions, while with React.js, I design dynamic, user-friendly web interfaces. I focus on writing clean, maintainable code and delivering seamless, engaging user experiences.
 
-<h2>🚀 Languages and Tools I Use</h2>
 
+# 💻 Tech Stack:
+<h2>🚀 Languages and Tools I Use</h2>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
@@ -20,8 +21,7 @@ I specialize in building responsive, high-performance web and mobile apps using 
 <p><a target="_blank" href="https://www.linkedin.com/in/rayane-krachni-b1794619a" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.behance.net/krachnirayane" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a></p>
 
-# 💻 Tech Stack:
-!Dart !React js
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rayane-krachni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rayane-krachni&theme=dark&hide_border=false)<br/>
