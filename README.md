@@ -1,4 +1,4 @@
-# 💫 hi I'm Rayane krachni:
+# 💫 hi I'm Rayane krachni
 🔭 I’m currently working on improving my skills as a software engineer. 
 
 🌱 I’m currently curious about mobile and web development. 
