@@ -24,10 +24,6 @@
 <a target="_blank" href="https://www.behance.net/krachnirayane" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a></p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rayane-krachni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rayane-krachni&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayane-krachni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ![](https://github-profile-trophy.vercel.app/?username=rayane-krachni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
