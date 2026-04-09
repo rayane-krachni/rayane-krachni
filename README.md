@@ -1,12 +1,12 @@
 
 # Hi, I'm Rayane Krachni
 
-💻 **Software Engineer | Full Stack Developer**
-🔧 Focused on **Backend Development & System Design**
+**Software Engineer | Full Stack Developer**
+ Focused on **Backend Development & System Design**
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 *  Currently working with **Next.js** for web and **Flutter** for mobile applications
 *  Building **full stack applications** 
@@ -17,10 +17,10 @@
 
 ###  What I Work With
 
-* 💻 **Frontend:** Next.js, React
-* 📱 **Mobile:** Flutter (iOS & Android)
-* 🔧 **Backend:** APIs, authentication, async processing 
-* 🔄 **System Design:** scalability, architecture patterns
+*  **Frontend:** Next.js, React
+*  **Mobile:** Flutter (iOS & Android)
+*  **Backend:** APIs, authentication, async processing 
+*  **System Design:** scalability, architecture patterns
 
 ---
 
