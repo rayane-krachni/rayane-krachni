@@ -19,7 +19,7 @@
 
 *  **Frontend:** Next.js, React
 *  **Mobile:** Flutter (iOS & Android)
-*  **Backend:** APIs, authentication, async processing 
+ *  **Backend:** Django
 *  **System Design:** scalability, architecture patterns
 
 ---
@@ -33,7 +33,7 @@
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 
 📄 More details on my LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/rayane-krachni-b1794619a" style="display: inline-block;"> <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /> </a>
 
